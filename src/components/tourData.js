@@ -1,19 +1,17 @@
 export const tourData = [
   {
     id: 1,
-    city: "new york",
-    img: "./img/newyork.jpeg",
-    name: "new york bridge tour",
-    info:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel,repellendus!"
+    city: "Pickering",
+    img: "./img/pickering.jpg",
+    name: "Pickering Penguin Trip",
+    info: "We stayed in a farm and went to feed the pengiuns... one bit me! :D"
   },
   {
     id: 2,
-    city: "paris",
-    img: "./img/paris.jpeg",
-    name: "paris lights tour",
-    info:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel,repellendus!"
+    city: "Rome",
+    img: "./img/rome.jpg",
+    name: "Our Roman Adventure",
+    info: "We went to Rome and we walked around the whole city!"
   },
   {
     id: 3,
